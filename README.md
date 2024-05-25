@@ -1,2 +1,3 @@
 # transformer
-Implementation of a transformer model.
+
+An implementation of a transformer model.
